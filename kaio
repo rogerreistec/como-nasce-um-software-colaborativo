@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Como nasce um software</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            background-color: #ff07c9;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        section {
+            background-color: rgb(140, 0, 255);
+            margin: 15px 0;
+            padding: 15px;
+            border-left: 5px solid #bfff00;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Como nasce um software</h1>
+    <p>Projeto colaborativo desenvolvido pela turma.</p>
+
+    <section id="grupo-1">
+        <h2>Grupo 1 — Ideia e problema</h2>
+        <p>O que q issu.</p>
+    </section>
+
+    <section id="grupo-2">
+        <h2>Grupo 2 — Público-alvo</h2>
+        <p>O gulosinho.</p>
+    </section>
+
+    <section id="grupo-3">
+        <h2>Grupo 3 — Levantamento de requisitos</h2>
+        <p>O aiai.</p>
+    </section>
+
+    <section id="grupo-4">
+        <h2>Grupo 4 — Protótipo da interface</h2>
+        <p>uhuw!.</p>
+    </section>
+
+    <section id="grupo-5">
+        <h2>Grupo 5 — Desenvolvimento</h2>
+        <p>O toma na boquinha.</p>
+    </section>
+
+    <section id="grupo-6">
+        <h2>Grupo 6 — Testes</h2>
+        <p>O ai vc foi menino novo.</p>
+    </section>
+
+    <section id="grupo-7">
+        <h2>Grupo 7 — Publicação</h2>
+        <p>O o maguai.</p>
+    </section>
+
+    <section id="grupo-8">
+        <h2>Grupo 8 — melhorias e manutenção</h2>
+        <p>O pizza de pepelone.</p>
+    </section>
+</body>
+</html>
