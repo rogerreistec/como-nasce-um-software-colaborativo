@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COMO NASCE UM SOFTWARE</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            background-color: #f903af;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        section {
+            background-color: rgb(199, 248, 2);
+            margin: 15px 0;
+            padding: 15px;
+            border-left: 5px solid #01fb1e;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>RANDOM ALEATÓRIO</h1>
+    <p>MI MI MI MI.</p>
+
+    <section id="grupo-1">
+        <h2>Grupo 1 — MORANGO</h2>
+        <p>AO LEI 8X ITEEEEEE .</p>
+    </section>
+
+    <section id="grupo-2">
+        <h2>Grupo 2 — O HOMEM MACACO</h2>
+        <p>NÃO TEM ALMA E NEM CORAÇÃO.</p>
+    </section>
+
+    <section id="grupo-3">
+        <h2>Grupo 3 — NOTORIUS BIG</h2>
+        <p>PERICLES.</p>
+    </section>
+
+    <section id="grupo-4">
+        <h2>Grupo 4 — AMINA</h2>
+        <p>MALIBU.</p>
+    </section>
+
+    <section id="grupo-5">
+        <h2>Grupo 5 — PINGU</h2>
+        <p>PETECO PETECO PETECO.</p>
+    </section>
+
+    <section id="grupo-6">
+        <h2>Grupo 6 — HATSUME MIKU</h2>
+        <p>PIPORO PORORO PIPO.</p>
+    </section>
+
+    <section id="grupo-7">
+        <h2>Grupo 7 — AAAAAAAUUUUU</h2>
+        <p>LOBSOMEN.</p>
+    </section>
+
+    <section id="grupo-8">
+        <h2>Grupo 8 — BLE BLE BLE</h2>
+        <p>DRÁCULA.</p>
+    </section>
+</body>
+</html>
